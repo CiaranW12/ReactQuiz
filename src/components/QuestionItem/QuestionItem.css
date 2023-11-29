@@ -1,0 +1,16 @@
+.neon-button-outline {
+  color: #08f;
+  border-color: #08f;
+  background-color: #111;
+  text-shadow: 0 0 5px #08f, 0 0 10px #08f, 0 0 15px #08f, 0 0 20px #08f;
+  box-shadow: 0 0 5px #08f, 0 0 10px #08f, 0 0 15px #08f, 0 0 20px #08f;
+}
+.neon-button-outline:hover {
+  background-color: #08f;
+  color: #111;
+  text-shadow: none;
+  box-shadow: none;
+}
+.question-item.card {
+  background-color: #111;
+}
